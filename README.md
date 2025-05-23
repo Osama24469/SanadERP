@@ -1,2 +1,2 @@
 # SanadERP
-ERP system for companies
+Basic structure generated.
